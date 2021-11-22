@@ -27,7 +27,7 @@
                     <form>
                         <div class="form-group">
                             <div class="centered-element">
-                                <img src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo.png"
+                                <img src="/gtdfaster-logo.png"
                                     class="img-fluid logo" alt="" srcset="">
                             </div>
                             <label for="taskInput" class="h5">New task</label>
@@ -47,7 +47,7 @@
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
-                                <th scope="col">Description</th>
+                                <th scope="col">Descricão</th>
                             </tr>
                         </thead>
                         <tbody>
