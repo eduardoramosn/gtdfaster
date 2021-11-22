@@ -1,6 +1,6 @@
 # Membros da Equipe
 
 - Camila Pereira Alves
-- Carlos Eduardo Ramos Nasciment
-- Edmilson cavalcante macedo
+- Carlos Eduardo Ramos Nascimento
+- Edmilson Cavalcante macedo
 - Lucas Rodrigues Pascoal
